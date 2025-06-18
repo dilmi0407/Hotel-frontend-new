@@ -1,0 +1,8 @@
+{
+  "/pages/contactus/page": "app/pages/contactus/page.js",
+  "/pages/requestbooking/page": "app/pages/requestbooking/page.js",
+  "/pages/admin/adminBookings/page": "app/pages/admin/adminBookings/page.js",
+  "/pages/admin/adminCategory/page": "app/pages/admin/adminCategory/page.js",
+  "/pages/dashboard/page": "app/pages/dashboard/page.js",
+  "/pages/admin/adminRooms/page": "app/pages/admin/adminRooms/page.js"
+}
